@@ -1,0 +1,111 @@
+{
+		margin: 0;
+		padding: 0;
+}
+html{
+	background: ;
+}
+body{
+	font-family: Helvetica, Sans-Serif;
+	font-size: 1em;
+	margin-left: 5%;
+	margin-top: 2%;
+	justify-content: center;
+}
+
+header{	
+	background: 
+}
+
+h1{
+	background: royalblue;
+  	font-size:60px;
+ 	text-align: center;
+ 	box-sizing: border-box;
+ 	border: 2px solid;
+ 	border-radius:10px;
+ 	font-family: Helvetica, Sans-Serif;
+	margin: 0 0 2em;
+}
+.aviso{
+		font-size: 20px;
+		position: absolute;
+		top: 110px;
+		right: 10px;
+		text-decoration: underline;
+		font-family: Helvetica, Sans-Serif;
+}
+.attent{
+	font-size: 35px;
+	color: black;
+	font-family: Helvetica, Sans-Serif;
+
+}
+.texto{
+	border: 3px ;
+	border-radius: 5px;
+	font-family: Helvetica, Sans-Serif;
+	border-color: royalblue;
+	margin-left: 0;
+	font-size: 15px;
+	color: black;
+	box-shadow: 2px 2px	2spx;
+
+}
+fieldset{
+	border: 0px;
+}
+input, select	textarea, button{
+	border-radius: 5px;
+}
+.dados{
+	margin-bottom: 1em;
+}
+.dados label{
+	margin:10px;
+	margin-bottom: 0.2em;
+	color: #000000;
+	display: block;	
+	font-size: 20px;
+	font-family: Helvetica, Sans-Serif;
+}
+.dados input[type="text"], .dados[type="email"], input[type="email"], input[type="tel"]	 {
+	padding: 10px 25px;
+	border: 1px solid	#59429d;
+	box-shadow: 2px 2px	2px;
+	display: block;
+	color: 	royalblue;
+	width: 70%;
+}
+
+}
+.situacao{
+	border: 2px solid ;
+	box-shadow: 2px 2px 2px;
+	border-radius: 15px;
+	color: royalblue;
+	padding: 10px 15px;
+	font-family: Helvetica, Sans-Serif;
+
+}
+textarea{
+	padding: 30px 25px;
+}
+.button{
+	width: 30%;
+	background: royalblue;
+	padding: 8px ;
+	font-size: 25px;
+	color: white;
+	font-weight: bold;
+	border: none;
+	border-radius: 5px;
+	transition: 1s all;
+	cursor: pointer;
+
+}
+.button:hover{
+	background: darkorange;
+	transform: scale(1.0);
+
+}

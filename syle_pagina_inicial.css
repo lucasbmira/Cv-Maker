@@ -1,0 +1,244 @@
+.infos{
+	text-align: center;
+	font-size: 10px;
+	margin-bottom: 10px;
+	cursor: pointer;
+}
+.pagina-inicial{
+	color: white;
+	display: inline-block;
+	font-family: helvetica, sans-serif;
+
+}
+.login	{
+	color: white;
+	display: inline-block;
+	font-family: helvetica, sans-serif;
+
+}
+.cor-link{
+	border: solid, 1px;
+	border-radius: 3px;
+	margin: 60px;
+}
+.cor-link{
+	color: white;
+	text-decoration: none;
+}
+.cor-link:hover{
+	color: #F2B705;
+	transform: scale(1.0);
+	transition: 1s all
+				
+}
+.cadastro{
+	color: white;
+	display: inline-block;
+	font-family: helvetica, sans-serif;
+	
+
+}
+.sobre{
+	color: white;
+	display: inline-block;
+	font-family: helvetica, sans-serif;
+}
+.contato{
+	color: white;
+	display: inline-block;
+	font-family: helvetica, sans-serif;
+
+
+}
+.curriculo{
+	width: 30%;
+	float: right;
+	left: 900px;
+	top:155px;
+	position: absolute;
+	box-shadow: yellow 5px 5px 3px;}
+
+
+.check{
+	width: 3%;
+	float: left;
+	top:150px;
+	left: 45px;
+	position: absolute;	
+}
+.check2{
+	width: 3%;
+	top:203px;
+	float: left;
+	left: 45px;
+	position: absolute;
+	
+}
+.check3{
+	width: 3%;
+	top:255px;
+	float: left;
+	left: 45px;
+	position: absolute;
+}
+.check4{
+	width: 3%;
+	top:306px;
+	float: left;
+	left: 45px;
+	position: absolute;
+	
+}				
+.titulo{
+	font-family: helvetica, sans-serif;
+	font-size: 38px;
+	text-align: center;
+	margin-bottom: 32px;
+	color: white;
+	text-shadow: #F2B705 1px 1px;
+}
+.beneficios{
+	font-family: helvetica, sans-serif;
+	font-size: 15px;
+	margin-left: 80px;
+	color: white;
+	margin-top: 35px;
+	text-shadow: black 1px 1px;
+
+}
+.subtitulo{
+	font-family: helvetica, sans-serif;
+	font-size: 24px;
+	text-align: left;
+	margin-bottom: 20px;
+	color: white;
+	margin-left: 45px;
+	text-shadow: black 1px 1px 1px;
+
+}
+.button	{
+		width:30%;
+		background: #021373;
+		padding:35px ;
+		font-size: 25px;
+		color: white;
+		font-weight: bold;
+		border: none;
+		border-radius: 5px;
+		transition: 1s all;
+		cursor: pointer;
+		font-family: helvetica, sans-serif;
+		margin-bottom: 20px;
+		margin-left: 240px;
+
+	}
+.button:hover{
+		background: #F2B705;
+		transform: scale(1.0);
+		box-shadow: 2px 2px 1px;
+	}
+.items-first{
+		border-style: outset;
+		border: #021373 2 px;
+		border-radius: 5px;
+		width: 850px;
+		text-align: justify;
+		margin-left: 15px;
+		padding: 5px;
+		padding-bottom: 55px;
+		padding-top: 5px;
+		background: white;
+		box-shadow: yellow 5px 5px 3px;
+}
+.imagem-facil{
+	width: 20%;
+	float: left;
+	margin-right: 5px;
+}	
+.rapido{
+		font-weight: bolds;
+		font-family: helvetica, sans-serif;
+		font-size: 15;
+		color: #2C3673;
+
+	}
+.facil{
+		font-family: helvetica,sans-serif;
+		font-size: 14px;
+		padding: 3px;
+		color:#2C3673;
+	}
+.items-second{
+		border-style: outset;
+		border: #021373 2 px;
+		border-radius: 5px;
+		margin-top: 20px;
+		width: 1270px;
+		text-align: justify;
+		margin-left: 15px;
+		padding: 5px;
+		padding-bottom: 20px;
+		padding-top: 10px;
+		background: white;
+		box-shadow: yellow 5px 5px 3px;
+}
+.imagem-emprego{
+	width: 12%;
+	float: left;
+	margin-left: 15px;
+	margin-right: 5px;
+}
+.probabilidade{
+		font-weight: bolds;
+		font-family: helvetica, sans-serif;
+		font-size: 15;
+		color: #2C3673;
+}
+.representativo{
+		color: #2C3673;
+		font-family: helvetica,sans-serif;
+		font-size: 14px;	
+}
+.items-three{
+		border-style: outset;
+		border: #021373 2 px;
+		border-radius: 5px;
+		margin-top: 20px;
+		width: 1270px;
+		text-align: justify;
+		margin-left:15px;
+		padding: 5px;
+		padding-bottom: 50px;
+		padding-top: 10px;
+		background:white;
+		box-shadow: yellow 5px 5px 3px;
+		margin-bottom: 100px;
+}
+.imagem-atualize{
+	width: 13%;
+	float: left;
+	margin-left: 15px;
+	margin-right: 5px;
+}
+.organize{
+		font-weight: bolds;
+		font-family: helvetica, sans-serif;
+		font-size: 15;
+		color: #2C3673;
+}
+.atualizar{
+		color: #2C3673;
+		font-family: helvetica,sans-serif;
+		font-size: 14px;
+}	
+.rodape{
+	max-height: 150px;
+	max-width: 5000px;
+	width: 1350px;
+	height: 40px;
+
+}
+@media screen and(max-width:480px){
+
+	}
+}
